@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.fdfd5c32.js";const A=JSON.parse('{"title":"命令开发","description":"","frontmatter":{},"headers":[],"relativePath":"guild/command.md","lastUpdated":1678861628000}'),p={name:"guild/command.md"},o=l("",15),t=[o];function e(c,y,r,D,F,i){return a(),n("div",null,t)}const m=s(p,[["render",e]]);export{A as __pageData,m as default};

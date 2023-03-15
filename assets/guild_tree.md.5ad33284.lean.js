@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as e}from"./chunks/framework.fdfd5c32.js";const m=JSON.parse('{"title":"目录结构","description":"","frontmatter":{},"headers":[],"relativePath":"guild/tree.md","lastUpdated":1678861628000}'),l={name:"guild/tree.md"},p=e("",4),t=[p];function o(c,r,i,d,C,A){return n(),a("div",null,t)}const y=s(l,[["render",o]]);export{m as __pageData,y as default};
